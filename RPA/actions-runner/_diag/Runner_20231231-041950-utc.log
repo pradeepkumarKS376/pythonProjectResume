@@ -1,0 +1,184 @@
+[2023-12-31 04:19:50Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2023-12-31 04:19:50Z INFO HostContext] Well known directory 'Bin': 'C:\Users\BCTPK1\Documents\pythonProjectResume\RPA\actions-runner\bin'
+[2023-12-31 04:19:50Z INFO HostContext] Well known directory 'Root': 'C:\Users\BCTPK1\Documents\pythonProjectResume\RPA\actions-runner'
+[2023-12-31 04:19:50Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\BCTPK1\Documents\pythonProjectResume\RPA\actions-runner\.credentials'
+[2023-12-31 04:19:50Z INFO HostContext] Well known directory 'Bin': 'C:\Users\BCTPK1\Documents\pythonProjectResume\RPA\actions-runner\bin'
+[2023-12-31 04:19:50Z INFO HostContext] Well known directory 'Root': 'C:\Users\BCTPK1\Documents\pythonProjectResume\RPA\actions-runner'
+[2023-12-31 04:19:50Z INFO HostContext] Well known config file 'Runner': 'C:\Users\BCTPK1\Documents\pythonProjectResume\RPA\actions-runner\.runner'
+[2023-12-31 04:19:50Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2023-12-31 04:19:50Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.19044.
+[2023-12-31 04:19:50Z INFO Listener] Version: 2.311.0
+[2023-12-31 04:19:50Z INFO Listener] Commit: f5cff308c83746dddd726a9a28a1583872305aaa
+[2023-12-31 04:19:50Z INFO Listener] Culture: en-IN
+[2023-12-31 04:19:50Z INFO Listener] UI Culture: en-US
+[2023-12-31 04:19:50Z INFO HostContext] Well known directory 'Bin': 'C:\Users\BCTPK1\Documents\pythonProjectResume\RPA\actions-runner\bin'
+[2023-12-31 04:19:50Z INFO HostContext] Well known directory 'Root': 'C:\Users\BCTPK1\Documents\pythonProjectResume\RPA\actions-runner'
+[2023-12-31 04:19:50Z INFO Listener] Validating directory permissions for: 'C:\Users\BCTPK1\Documents\pythonProjectResume\RPA\actions-runner'
+[2023-12-31 04:19:50Z INFO CommandLineParser] Parse
+[2023-12-31 04:19:50Z INFO CommandLineParser] Parsing 1 args
+[2023-12-31 04:19:50Z INFO CommandLineParser] parsing argument
+[2023-12-31 04:19:51Z INFO CommandLineParser] HasArgs: False
+[2023-12-31 04:19:51Z INFO CommandLineParser] Adding Command: run
+[2023-12-31 04:19:51Z INFO Listener] Arguments parsed
+[2023-12-31 04:19:51Z INFO Runner] ExecuteCommand
+[2023-12-31 04:19:51Z INFO ConfigurationStore] currentAssemblyLocation: C:\Users\BCTPK1\Documents\pythonProjectResume\RPA\actions-runner\bin\Runner.Listener.dll
+[2023-12-31 04:19:51Z INFO HostContext] Well known directory 'Bin': 'C:\Users\BCTPK1\Documents\pythonProjectResume\RPA\actions-runner\bin'
+[2023-12-31 04:19:51Z INFO ConfigurationStore] binPath: C:\Users\BCTPK1\Documents\pythonProjectResume\RPA\actions-runner\bin
+[2023-12-31 04:19:51Z INFO HostContext] Well known directory 'Bin': 'C:\Users\BCTPK1\Documents\pythonProjectResume\RPA\actions-runner\bin'
+[2023-12-31 04:19:51Z INFO HostContext] Well known directory 'Root': 'C:\Users\BCTPK1\Documents\pythonProjectResume\RPA\actions-runner'
+[2023-12-31 04:19:51Z INFO ConfigurationStore] RootFolder: C:\Users\BCTPK1\Documents\pythonProjectResume\RPA\actions-runner
+[2023-12-31 04:19:51Z INFO HostContext] Well known directory 'Bin': 'C:\Users\BCTPK1\Documents\pythonProjectResume\RPA\actions-runner\bin'
+[2023-12-31 04:19:51Z INFO HostContext] Well known directory 'Root': 'C:\Users\BCTPK1\Documents\pythonProjectResume\RPA\actions-runner'
+[2023-12-31 04:19:51Z INFO HostContext] Well known config file 'Runner': 'C:\Users\BCTPK1\Documents\pythonProjectResume\RPA\actions-runner\.runner'
+[2023-12-31 04:19:51Z INFO ConfigurationStore] ConfigFilePath: C:\Users\BCTPK1\Documents\pythonProjectResume\RPA\actions-runner\.runner
+[2023-12-31 04:19:51Z INFO HostContext] Well known directory 'Bin': 'C:\Users\BCTPK1\Documents\pythonProjectResume\RPA\actions-runner\bin'
+[2023-12-31 04:19:51Z INFO HostContext] Well known directory 'Root': 'C:\Users\BCTPK1\Documents\pythonProjectResume\RPA\actions-runner'
+[2023-12-31 04:19:51Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\BCTPK1\Documents\pythonProjectResume\RPA\actions-runner\.credentials'
+[2023-12-31 04:19:51Z INFO ConfigurationStore] CredFilePath: C:\Users\BCTPK1\Documents\pythonProjectResume\RPA\actions-runner\.credentials
+[2023-12-31 04:19:51Z INFO HostContext] Well known directory 'Bin': 'C:\Users\BCTPK1\Documents\pythonProjectResume\RPA\actions-runner\bin'
+[2023-12-31 04:19:51Z INFO HostContext] Well known directory 'Root': 'C:\Users\BCTPK1\Documents\pythonProjectResume\RPA\actions-runner'
+[2023-12-31 04:19:51Z INFO HostContext] Well known config file 'MigratedCredentials': 'C:\Users\BCTPK1\Documents\pythonProjectResume\RPA\actions-runner\.credentials_migrated'
+[2023-12-31 04:19:51Z INFO ConfigurationStore] MigratedCredFilePath: C:\Users\BCTPK1\Documents\pythonProjectResume\RPA\actions-runner\.credentials_migrated
+[2023-12-31 04:19:51Z INFO HostContext] Well known directory 'Bin': 'C:\Users\BCTPK1\Documents\pythonProjectResume\RPA\actions-runner\bin'
+[2023-12-31 04:19:51Z INFO HostContext] Well known directory 'Root': 'C:\Users\BCTPK1\Documents\pythonProjectResume\RPA\actions-runner'
+[2023-12-31 04:19:51Z INFO HostContext] Well known config file 'Service': 'C:\Users\BCTPK1\Documents\pythonProjectResume\RPA\actions-runner\.service'
+[2023-12-31 04:19:51Z INFO ConfigurationStore] ServiceConfigFilePath: C:\Users\BCTPK1\Documents\pythonProjectResume\RPA\actions-runner\.service
+[2023-12-31 04:19:51Z INFO CommandSettings] Flag 'help': 'False'
+[2023-12-31 04:19:51Z INFO CommandSettings] Flag 'version': 'False'
+[2023-12-31 04:19:51Z INFO CommandSettings] Flag 'commit': 'False'
+[2023-12-31 04:19:51Z INFO CommandSettings] Flag 'check': 'False'
+[2023-12-31 04:19:51Z INFO CommandSettings] Command 'configure': 'False'
+[2023-12-31 04:19:51Z INFO CommandSettings] Command 'remove': 'False'
+[2023-12-31 04:19:51Z INFO CommandSettings] Command 'warmup': 'False'
+[2023-12-31 04:19:51Z INFO ConfigurationManager] LoadSettings
+[2023-12-31 04:19:51Z INFO ConfigurationStore] IsConfigured()
+[2023-12-31 04:19:51Z INFO ConfigurationStore] IsConfigured: True
+[2023-12-31 04:19:51Z INFO ConfigurationManager] Is configured: True
+[2023-12-31 04:19:51Z INFO ConfigurationStore] Read setting file: 326 chars
+[2023-12-31 04:19:51Z INFO ConfigurationManager] Settings Loaded
+[2023-12-31 04:19:51Z INFO ConfigurationStore] IsServiceConfigured()
+[2023-12-31 04:19:51Z INFO ConfigurationStore] IsServiceConfigured: False
+[2023-12-31 04:19:51Z INFO CommandSettings] Command 'run': 'True'
+[2023-12-31 04:19:51Z INFO ConfigurationStore] IsConfigured()
+[2023-12-31 04:19:51Z INFO ConfigurationStore] IsConfigured: True
+[2023-12-31 04:19:51Z INFO ConfigurationManager] Is configured: True
+[2023-12-31 04:19:51Z INFO Runner] Could not parse the argument value '' for StartupType. Defaulting to Manual
+[2023-12-31 04:19:51Z INFO Runner] Set runner startup type - Manual
+[2023-12-31 04:19:51Z INFO CommandSettings] Flag 'once': 'False'
+[2023-12-31 04:19:51Z INFO CommandSettings] Flag 'once': 'False'
+[2023-12-31 04:19:51Z INFO Runner] RunAsync
+[2023-12-31 04:19:51Z INFO ConfigurationManager] LoadSettings
+[2023-12-31 04:19:51Z INFO ConfigurationStore] IsConfigured()
+[2023-12-31 04:19:51Z INFO ConfigurationStore] IsConfigured: True
+[2023-12-31 04:19:51Z INFO ConfigurationManager] Is configured: True
+[2023-12-31 04:19:51Z INFO ConfigurationManager] Settings Loaded
+[2023-12-31 04:19:51Z INFO MessageListener] {
+  "AgentId": 2,
+  "AgentName": "AP-MBEAW5UR0LNF",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelinesghubeus3.actions.githubusercontent.com/WZbgv1CdSfbkCRrSrujNV3j6805XXvgXnGUSNn9dwLtgcihhQj/",
+  "GitHubUrl": "https://github.com/pradeepkumarKS376/pythonProjectResume",
+  "WorkFolder": "_work"
+}
+[2023-12-31 04:19:51Z INFO MessageListener] Loading Credentials
+[2023-12-31 04:19:51Z INFO ConfigurationStore] HasCredentials()
+[2023-12-31 04:19:51Z INFO ConfigurationStore] stored True
+[2023-12-31 04:19:51Z INFO CredentialManager] GetCredentialProvider
+[2023-12-31 04:19:51Z INFO CredentialManager] Creating type OAuth
+[2023-12-31 04:19:51Z INFO CredentialManager] Creating credential type: OAuth
+[2023-12-31 04:19:51Z INFO HostContext] Well known directory 'Bin': 'C:\Users\BCTPK1\Documents\pythonProjectResume\RPA\actions-runner\bin'
+[2023-12-31 04:19:51Z INFO HostContext] Well known directory 'Root': 'C:\Users\BCTPK1\Documents\pythonProjectResume\RPA\actions-runner'
+[2023-12-31 04:19:51Z INFO HostContext] Well known config file 'RSACredentials': 'C:\Users\BCTPK1\Documents\pythonProjectResume\RPA\actions-runner\.credentials_rsaparams'
+[2023-12-31 04:19:51Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\BCTPK1\Documents\pythonProjectResume\RPA\actions-runner\.credentials_rsaparams
+[2023-12-31 04:19:51Z INFO MessageListener] Attempt to create session.
+[2023-12-31 04:19:51Z INFO MessageListener] Connecting to the Runner Server...
+[2023-12-31 04:19:51Z INFO RunnerServer] EstablishVssConnection
+[2023-12-31 04:19:51Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2023-12-31 04:19:51Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-12-31 04:19:51Z INFO RunnerServer] EstablishVssConnection
+[2023-12-31 04:19:51Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-12-31 04:19:51Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-12-31 04:19:51Z INFO RunnerServer] EstablishVssConnection
+[2023-12-31 04:19:51Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-12-31 04:19:51Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-12-31 04:20:13Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-12-31 04:20:13Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-12-31 04:20:13Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-12-31 04:20:13Z INFO MessageListener] VssConnection created
+[2023-12-31 04:20:13Z INFO Terminal] WRITE LINE: 
+[2023-12-31 04:20:13Z INFO Terminal] WRITE LINE: 
+[2023-12-31 04:20:13Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\BCTPK1\Documents\pythonProjectResume\RPA\actions-runner\.credentials_rsaparams
+[2023-12-31 04:20:13Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\BCTPK1\Documents\pythonProjectResume\RPA\actions-runner\.credentials_rsaparams
+[2023-12-31 04:20:14Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2023-12-31 04:20:15Z INFO MessageListener] Session created.
+[2023-12-31 04:20:15Z INFO Terminal] WRITE LINE: Current runner version: '2.311.0'
+[2023-12-31 04:20:15Z INFO Terminal] WRITE LINE: 2023-12-31 04:20:15Z: Listening for Jobs
+[2023-12-31 04:20:15Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
+[2023-12-31 04:27:06Z WARN GitHubActionsService] GET request to https://pipelinesghubeus3.actions.githubusercontent.com/WZbgv1CdSfbkCRrSrujNV3j6805XXvgXnGUSNn9dwLtgcihhQj/_apis/distributedtask/pools/1/messages?sessionId=9412ab70-d982-4b0f-b10b-ee4c61524fe4&status=Online&runnerVersion=2.311.0&os=Windows&architecture=X64 timed out after 60 seconds.
+[2023-12-31 04:27:06Z ERR  MessageListener] Catch exception during get next message.
+[2023-12-31 04:27:06Z ERR  MessageListener] System.TimeoutException: The HTTP request timed out after 00:01:00.
+ ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: The I/O operation has been aborted because of either a thread exit or an application request..
+ ---> System.Net.Sockets.SocketException (995): The I/O operation has been aborted because of either a thread exit or an application request.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](TIOAdapter adapter)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.InitialFillAsync(Boolean async)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpRetryMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpRequestMessage message, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken)
+   at GitHub.Runner.Listener.MessageListener.GetNextMessageAsync(CancellationToken token)
+[2023-12-31 04:27:06Z ERR  MessageListener] #####################################################
+[2023-12-31 04:27:06Z ERR  MessageListener] System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: The I/O operation has been aborted because of either a thread exit or an application request..
+ ---> System.Net.Sockets.SocketException (995): The I/O operation has been aborted because of either a thread exit or an application request.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](TIOAdapter adapter)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.InitialFillAsync(Boolean async)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+[2023-12-31 04:27:06Z ERR  MessageListener] #####################################################
+[2023-12-31 04:27:06Z ERR  MessageListener] System.IO.IOException: Unable to read data from the transport connection: The I/O operation has been aborted because of either a thread exit or an application request..
+ ---> System.Net.Sockets.SocketException (995): The I/O operation has been aborted because of either a thread exit or an application request.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](TIOAdapter adapter)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.InitialFillAsync(Boolean async)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+[2023-12-31 04:27:06Z ERR  MessageListener] #####################################################
+[2023-12-31 04:27:06Z ERR  MessageListener] System.Net.Sockets.SocketException (995): The I/O operation has been aborted because of either a thread exit or an application request.
+[2023-12-31 04:27:06Z INFO MessageListener] Retriable exception: The HTTP request timed out after 00:01:00.
+[2023-12-31 04:27:06Z ERR  Terminal] WRITE ERROR: 2023-12-31 04:27:06Z: Runner connect error: The HTTP request timed out after 00:01:00.. Retrying until reconnected.
+[2023-12-31 04:27:06Z INFO RunnerServer] Refresh MessageQueue VssConnection to get on a different AFD node.
+[2023-12-31 04:27:06Z INFO RunnerServer] EstablishVssConnection
+[2023-12-31 04:27:06Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-12-31 04:27:06Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-12-31 04:27:28Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-12-31 04:27:28Z INFO MessageListener] Sleeping for 25.893 seconds before retrying.
+[2023-12-31 04:28:44Z INFO Terminal] WRITE LINE: 2023-12-31 04:28:44Z: Runner reconnected.
