@@ -1,0 +1,1 @@
+web: guincorn pythonProjectResume.wsgi:application --log-file -
