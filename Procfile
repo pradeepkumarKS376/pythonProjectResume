@@ -1,1 +1,1 @@
-web: gunicorn pythonProjectResume.wsgi:application --log-file -
+web: gunicorn pythonProjectResume.wsgi:RPAResume
