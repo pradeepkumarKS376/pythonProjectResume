@@ -1,1 +1,1 @@
-web: gunicorn pythonProjectResume.wsgi:RPAResume
+web: gunicorn pythonProjectResume.wsgi
