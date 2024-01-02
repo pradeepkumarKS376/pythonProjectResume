@@ -1,1 +1,0 @@
-web: gunicorn RPAResume.wsgi:application --log-file -
