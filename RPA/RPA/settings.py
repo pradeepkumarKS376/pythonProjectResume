@@ -25,7 +25,7 @@ BASE_DIR2 = os.path.dirname(
     os.path.dirname(os.path.dirname(__file__))
 )  # C:\Users\BCTPK1\'
 Template_DIR = os.path.join(BASE_DIR2, r"RPA\template")
-STATIC_DIR = os.path.join(BASE_DIR2, r"RPA\staticfiles")
+STATIC_DIR = os.path.join(BASE_DIR2, r"RPA\static")
 Env_DIR = os.path.join(BASE_DIR2, r"RPA\RPA.env")
 Mod_DIR = os.path.join(BASE_DIR2, r"RPA\RPAResume\models.py")
 MEDIA_URL = "/media/"
@@ -135,7 +135,6 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/4.1/howto/static-files/
 
 STATIC_URL = "/static/"
-
 STATIC_ROOT = os.path.join(BASE_DIR2, r"RPA\staticfiles")
 STATICFILES_DIRS = [STATIC_DIR,]
 
